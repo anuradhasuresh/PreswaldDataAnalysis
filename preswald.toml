@@ -8,7 +8,7 @@ entrypoint = "hello.py"    # Required: Main script to run when executing preswal
 [branding]
 name = "Best Sellers Data Analysis Project"
 logo = "images/logo.png"
-favicon = "images/icons8-blockchain-technology-16"
+# <a target="_blank" href="https://icons8.com/icon/84734/blockchain-technology">Blockchain Technology</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>"
 primaryColor = "#F89613"
 
 [data.best_sellers_data2]
